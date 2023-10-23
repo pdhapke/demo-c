@@ -13,7 +13,6 @@ export default function Home() {
   return (
     <main>
       <h1>Hello ISU - This is a template</h1>
-      <h1>Is this using an old html?</h1>
 
       <button onClick={onButtonPress}>Press Me</button>
       {pressed && <p>You pressed the BUTTON</p>}
