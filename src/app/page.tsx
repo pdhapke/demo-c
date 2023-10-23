@@ -12,7 +12,7 @@ export default function Home() {
 
   return (
     <main>
-      <h1>Hello ISU - This is a github pages test</h1>
+      <h1>Hello ISU - This is a template</h1>
 
       <button onClick={onButtonPress}>Press Me</button>
       {pressed && <p>You pressed the BUTTON</p>}

@@ -9,7 +9,6 @@
     "lint": "next lint",
     "test": "jest",
     "test:watch": "jest --watch"
-
   },
   "dependencies": {
     "@testing-library/user-event": "^14.5.1",
